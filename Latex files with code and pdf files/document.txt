@@ -1,0 +1,168 @@
+\documentclass[oneside,a4paper,16pt]{report}
+
+\usepackage[pdftex]{color,graphicx}
+%\usepackage{fancyhdr}
+\usepackage{amssymb}
+
+
+\pagestyle{plain}
+
+%set paper size for A4 paper
+\topmargin      20mm    
+%\bottommargin 20mm
+\oddsidemargin  25mm    
+
+%text sizes
+\textwidth  180mm
+\textheight 238mm
+\parindent  0mm
+
+%misc parameters
+\headsep 3mm
+\headheight 8mm
+\footskip 18mm
+
+
+%conversion to values for LaTeX
+\advance\topmargin-1.2in\advance\oddsidemargin-1.2in
+\evensidemargin\oddsidemargin
+
+
+
+\begin{document}
+	
+	%%%%%%%%%%%%%%  Your Front matter Starts From here  %%%%%%%%%%%%%%%
+	
+%	\frontmatter
+	\thispagestyle{empty}
+	
+	%%%%%%%    Front Page  %%%%%%%%%%%%%%%%%%
+	
+	\begin{center}
+	%	{\Large A \\ Summer Trainning Report\\ on \\
+%			\vspace{0.5cm}
+			
+%			{\bf ``VINODa. MANAGEMENT"}}
+       {\large \bf A\\Project Overview On\\Advance Security System}
+	\end{center}
+	
+	\vspace{0.3cm}
+%	\begin{center}
+		%\Large Submitted as a requirement for the partial \\fulfillment of Degree of  Bachelor \\ in Information Technology
+%	\end{center}
+%	\vspace{0.6cm}
+	
+	\begin{figure}[ht!]
+		\begin{center}
+			\includegraphics[width=6.0cm]{logo.jpg}
+		\end{center}
+	\end{figure}
+	
+	\vspace{0.25cm}
+	
+	\begin{center}
+		\Large Session 2017-18\\Q.G. No. - 11
+	\end{center}
+	
+	\vspace{1.0cm}
+	
+	\begin{center}
+		\Large \hspace{-0.5cm}{\underline{\bf Project guide:}} \hspace{8.5cm} {\underline{\bf Submitted By:}}\\
+		\hspace{-1.0cm}Mrs. Hareeta Malani \hspace{7.0cm} Ashish Sahu\\
+		\hspace{0cm}(Assistant Professor\hspace{7.4cm} Shubham Sharma \\
+		\hspace{-0.7cm}ECE,Department)\hspace{7.5cm} Vishal Yadav\\
+		\hspace{-1.2cm} {\underline{\bf Project Incharge}}
+		 \hspace{7.9cm} Santosh Yadav\\
+		 \hspace{-0.6cm} Mrs. Hareeta Malani\hspace{7.8cm} Dharmendra Saini\\
+	\end{center}
+	
+	\vspace{3.8cm}
+	
+	\rule{170mm}{0.5mm}
+	
+	\begin{center}
+		\Large Department of Information Technology\\
+		M.L.V. Textile and Engineering College,\\
+		Pure road, Bhilwara(Raj.)-311001
+		
+		\vspace{0.5cm}
+		
+		{\bf September 2017}
+	\end{center}
+	
+	
+	\newpage
+	\pagenumbering{roman}
+	
+%  
+\begin{abstract}
+	Home security has been a major issue where crime is increasing and everybody wants to take proper measures to prevent intrusion. In addition there was a need to automate home so that user can take advantage of the technological advancement in such a way that a person getting off the office does not get melted with the hot climate. Advance security system is project in which we provide users to use such type of technology and improve security of home and office. By using such type of technology we can control unwanted activity. Purpose behind developing this project is that to protect from theft to our society and also protect from criminal. In this we will develop a security system in which authorized users can enter in home or office every member of home or office will be identified by its finger print or face by using biometric and all these details will be stored on a web page which can be access by admin only and in case of unauthorized person an image of that person will be send on server as well as on mobile phone of admin. This advance security system also has feature that door of the office or home will not be unlocked until user is not authorized. All activity like who entered in home will be store and also notify on mobile phone to a particular no. such type of technology is very useful for those industries in which they required privacy and it can be used also at home and these all activities through a remote or a mobile. For developing such type of project we required some concept of IOT and MATLAB for image processing of fingerprint.\\
+	\\
+	Keywords:Security Systems, Finger Print Access, CCTV Security, Embedded Systems, Internet Of Things, Image Processing, MATLAB\\
+	Technique; MATLAB Image Processing, Embedded System, Internet Of Things
+\end{abstract}
+\newpage
+
+{\large \bf Introduction:-}\\
+\\
+The aim of our project is to provide privacy and security to a particular Home or companies from remote locations from a central Server system.
+The idea of having a full control over the places where we live and work has always been a fascinating subject to fantasize no matter at what age! As the technology improved in recent decades, human being gained more power on controlling various devices indoors. However, having this control remotely still remains an incomplete yet developing matter in industry. \\
+
+The Project entitled “ ADVANCE SECURITY SYSTEMS” highlights the above mentioned issue and offers ways to overcome this need by employing two of the most widely used features of today’s technology – SMS to be applied as a bridge in between human and fully automated buildings, GSM standard which ensures perfect compatibility between networks and mobile phones in any location.\\
+
+
+In this project, the system allows the home owner or company owner to monitor and control the house security like Whose entered, Door lock or door unlocked,  which can be switched on or off via the mobile phone set by sending commands in the form of SMS and also the home owner can receive the appliances status. \\
+
+When a message was received from the GSM then the micro controller will display that message on LCD at the end of the message a number is received based on that number the micro controller will does the coresponinding operation to that number like switching the devices ON and OFF. and the date and time of that message received is displayed on LCD display.
+\\\\\\\\
+{\large \bf Block Diagram:-}\\
+\begin{center}
+	\hspace{2.6cm}	\includegraphics[width=15cm]{Block2.png}
+	\vspace{1cm}
+\end{center} 
+{\large \bf Softwares:-}
+\begin{enumerate}
+	\item Mat Lab
+	\item AVR
+	\item Proteus
+	\item Microchip
+\end{enumerate}
+\newpage
+{\large \bf Hardwares:-}
+\begin{enumerate}
+	\item ATmega 16 Controller
+	\item GSM Module
+	\item Motion Detector
+	\item Web Cam
+	\item LCD Display
+	\item Servo Motors
+	\item AC Bulb
+	\item Alert Alarm
+	\item GSM SIM
+	\item Burner
+	\item Light Detector
+\end{enumerate}
+
+{\large \bf REFERENCE}
+\\
+\begin{enumerate}
+\type C. Pyo, H. Gang, N. Kim and H. Bang, “Technology trends and prospects of development of IoT (M2M),” OSIA Standards & Technology Review, vol. 26, no. 2, (2013), pp. 8-17.\\
+\type Y. Ko, “Study of Policies of Major Countries on Internet of Things and Market Forecast,” International Commerce and Information Review, vol. 16, no. 5, (2014), pp. 27-47.\\
+\type D. Seo, H. Ko and Y. Noh, “Design and Implementation of Digital Door Lock by IoT,” KIISE Transactions on Computing Practices (KTCP), vol. 21, no. 3, (2015), pp. 215-222.\\
+\type S. Lee, J. Park, B. Woo and H. Choi, “Video Digital Doorlock System for Recognition and Transmission of Approaching Objects,” KIPS Transaction: Software and Data Engineering, vol. 3, no. 6, (2014), pp. 237-242.\\
+\type T. Kwak and S. Moon, “A Digital Doorlock with Voice Recognition,” in Proceedings of KIIT Spring Conference, vol. 2012, no. 5, (2012), pp. 345-348.\\
+\type J. Potts and S. Sukittanon, “Exploiting Bluetooth on Android Mobile Devices for Home Security Application,” in Proceedings of IEEE Southeastcon Orlango, (2012), pp. 1-4.\\
+\type Y. Choi, Y. Park, W. Back, D. Lee and J. Byun, “Development of Home Automation System using Digital Doorlock based on Wireless Sensor Network,” in Proceedings of KIIT Summer Conference, vol. 2011, no. 5, (2011), pp. 189-193.\\
+\type O. Hoh and I. Ha, “A Digital Door Lock System for the Internet of Things with Improved Security and Usability,” Advanced Science and Technology Letters, vol. 109, (2015), pp. 33-38.\\
+\type H. Hassan, R. Bakar, and A. Mokhtar, “Face Recognition Based on Auto-Switching Magnetic Door Lock System Using”, in Proceedings of 2012 International Conference on System Engineering and Technology, (2012), pp.1-6.\\
+\type R. Satti, S. Ejaz, and M. Arshad, “A Smart Visitors’ Notification System with Automatic Secure Door Lock using Mobile Communication Technology,” International Journal of Computer and Communication System Engineering, vol. 2, (2015), pp. 39-44.\\
+\type Y. Park, P. Sthapit, and J. Pyun, “Smart Digital Door Lock for the Home Automation”, in Proceedings of TENCON 2009, (2009), pp. 1-5.\\
+\type G. Verma and P. Tripathi, “A Digital Security System with Door Lock System Using RFID Technology”, International Journal of Computer Applications, vol. 5, no. 11, (2012), pp. 6-8.\\
+\type M. Roy, F. Hemmert, and R. Wettach, “Living Interfaces: The Intimate Door Lock,” in Proceedings of the Third International Conference on Tangible and Embedded Interaction (TEI'09), (2009), pp. 45-46.\\
+
+\end{enumerate}
+
+\end{document}
+
+
+

@@ -1,0 +1,709 @@
+\documentclass[twoside,a4paper,16pt]{book}
+% for graphics
+\usepackage[pdftex]{color,graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{amssymb}
+\usepackage{parskip}
+\usepackage{color}
+
+\usepackage[textwidth=7.1in]{geometry}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LO]{\leftmark} 
+\fancyhead[RE]{\rightmark}
+\fancyfoot[C]{\thepage}
+
+  
+\renewcommand{\headrulewidth}{2pt}
+
+\let\cleardoublepage\clearpage
+
+
+
+%set paper size
+%for A4 paper
+\topmargin 20mm    
+%bottom margin 30mm
+\oddsidemargin 20mm    
+%left & right margin 15mm
+
+%text sizes
+\textwidth  180mm
+\textheight 238mm
+\parindent  0.00mm
+
+%misc parameters
+\headsep 3mm  
+\headheight 8mm
+\footskip 18mm
+
+%\footheight 6mm
+
+%conversion to values for LaTeX
+\advance\topmargin-1.2in\advance\oddsidemargin-1.2in
+\evensidemargin\oddsidemargin
+
+%\setlength{\parindent}{3mm}
+
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%  Your Front matter Starts From here  %%%%%%%%%%%%%%%
+
+
+\frontmatter
+\thispagestyle{empty}
+
+
+%%%%%%%    Front Page  %%%%%%%%%%%%%%%%%%
+
+
+\begin{center}
+{\Large A \\ Summer Training Project\\ on \\
+\vspace{0.5cm}
+
+{\bf ``RIGHT HAND"}}
+\end{center}
+
+\vspace{0.3cm}
+\begin{center}
+ \Large Submitted as a requirement for the partial \\fulfillment of Degree of  Bachelor \\ in Information Technology
+\end{center}
+\vspace{0.6cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[width=6.0cm]{logo.jpg}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+
+\begin{center}
+\Large Session 20\bf{17} - \bf{18}
+\end{center}
+
+\vspace{1.0cm}
+
+
+\Large {\underline{\bf Submitted To:}} \hspace{7.5cm} {\underline{\bf Submitted By:}}\\
+\hspace{-1.5cm}Mr. Anurag Jagetiya  \hspace{6.45cm} Gautam  \hspace{1.75cm} 14EMBIT017 \\
+\hspace{-1.5cm}Assistant Professor \hspace{6.85cm}   Reshu Agarwal \hspace{0.15cm}   14EMBIT029\\
+\hspace{-1.45cm}Dept. of IT \hspace{8.5cm}  Rijvan Mohd.  \hspace{0.45cm}   14EMBIT030\\
+\hspace{-1.45cm}MLVTEC \hspace{8.85cm}  Ronak k. Rathi  \hspace{0.15cm}   14EMBIT031\\
+
+
+
+\vspace{1.2cm}
+
+\rule{170mm}{1mm}
+
+\begin{center}
+{\color{red}
+\Large Department of Information Technology\\
+M.L.V. Textile and Engineering College,\\
+Pur road, Bhilwara(Raj.)-311001 }
+
+\vspace{0.3cm}
+
+{\bf August 2017}
+\end{center}
+
+
+\newpage
+\frontmatters
+\begin{center}
+ \huge{\bf Certificates}
+\end{center}
+
+
+
+\section{Gautam}
+
+\vspace{0.6cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[width=20.0cm]{gautam.jpg}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+
+
+
+\newpage
+
+\section{Reshu Agarwal}
+
+
+\vspace{0.6cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[width=20.0cm]{reshu.jpg}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+
+
+\newpage
+\section{Rijvan Mohammad}
+
+
+\vspace{0.6cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[width=20.0cm]{rijvan.jpg}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+
+
+\newpage
+\section{Ronak Kumar Rathi}
+
+
+\vspace{0.6cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[width=20.0cm]{ronak.jpg}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+
+\newpage
+\begin{center}
+\huge{\bf PREFACE}
+\end{center}
+\vspace{1.5cm}
+\large It gives us immense pleasure in presenting our {\bf ``Right Hand"}  Under the  guidance of  {\bf Mr. Hardik Vyas (Project Manager)} from {\bf V R Info System, Ahmedabad(Gujrat)}.\\\\
+This report contains the working procedure, softwares used and various programming languages learned during the period of development of our application.\\\\
+It consists the process and components used by us to create this Android Application. Android Studio is used to implement all these features and functionality of this application.\\\\
+This report will be helpful to everyone who would like to gain the knowledge of Android Application Development and throughly implement them by creating the app. 
+ \newpage
+\begin{center}
+\huge{\bf ACKNOWLEDGEMENT} 
+\end{center}
+\vspace{1.5cm}
+It gives me immense pleasure in presenting our seminar. We would like to take this
+opportunity to express my deepest gratitude to the people, who have contributed
+their valuable time for helping me to successfully complete this training.\\\\
+ With great pleasure and acknowledgment we extend my deep gratitude to Respected
+ {\bf Mr. Nitesh Chauhan ( Head, IT Department) , Mr. Anurag Jagetiya (Asst. Prof., IT
+department)}.\\\\
+Also we would like to thank {\bf Mr. Mukesh Verma(Asst. Prof., IT department)} and {\bf Mr. Pankaj Suwalka(Faculty, IT Department)} for giving us their valuable suggestion.
+They have enriched my knowledge by making suggestions based on their experience.\\\\
+Finally, we would like to thank all the people who were directly and indirectly involved
+in the activity.
+\newpage
+\mainmatter
+\tableofcontents
+\listoffigures
+\contentstyleisdeshed
+
+\newpage
+\chapter{\bf Company Profile}
+VR Info System is a collection of the powerful and bright bunch of professionals who make the company an honored brand name for supreme solutions for mobile and web apps.We are driven by a simple goal: Deliver high-quality software to our clients, and ensure projects run with full of performance, fully expected and reliable.\\\\
+Established in 2015, VR Info System is consulting and IT Services company with more than 20 employees. Our software development process essentially takes a project, no matter how large, and breaks it down into smaller projects that are well defined and efficiently managed.\\
+VR Info System helps brands connect more deeply with customers through custom experiences for phones, tablets and smart things. We transform app ideas into experiences for a wide range of connected devices you hold in your hand, wear on your wrist, and use in your home and car.
+
+\chapter{\bf Technology Description} 
+\section{About Android}
+Android is a mobile operating system developed by Google, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets. Android's user interface is mainly based on direct manipulation, using touch gestures that loosely correspond to real-world actions, such as swiping, tapping and pinching, to manipulate on-screen objects, along with a virtual keyboard for text input. In addition to touchscreen devices, Google has further developed Android TV for televisions, Android Auto for cars, and Android Wear for wrist watches, each with a specialized user interface. Variants of Android are also used on game consoles, digital cameras, PCs and other electronics.\\
+
+\vspace{0.5cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[width=6.0cm]{android.jpg}
+\caption{Android}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+
+
+Initially developed by Android Inc., which Google bought in 2005, Android was unveiled in 2007, along with the founding of the Open Handset Alliance – a consortium of hardware, software, and telecommunication companies devoted to advancing open standards for mobile devices. Beginning with the first commercial Android device in September 2008, the operating system has gone through multiple major releases, with the current version being 7.0 "Nougat", released in August 2016. Android applications ("apps") can be downloaded from the Google Play store, which features over 2.7 million apps as of February 2017. Android has been the best-selling OS on tablets since 2013, and runs on the vast majority[a] of smartphones. As of May 2017, Android has two billion monthly active users, and it has the largest installed base of any operating system.\\
+ Android powers hundreds of millions of mobile devices in more than 190 countries around the world. It's the largest installed base of any mobile platform and growing fast—every day another million users power up their Android devices for the first time and start looking for apps, games, and other digital content.
+
+Android gives you a world-class platform for creating apps and games for Android users everywhere, as well as an open marketplace for distributing to them instantly.\\
+
+\section{History of Android}
+Android Inc. was founded in Palo Alto, California in October 2003 by {\bf Andy Rubin, Rich Miner, Nick Sears, and Chris White}.  Rubin described the Android project as "tremendous potential in developing smarter mobile devices that are more aware of its owner's location and preferences".\\
+In July 2005, Google acquired Android Inc. for at least 50 million dollar. Its key employees, including Rubin, Miner and White, joined Google as part of the acquisition. Not much was known about the secretive Android at the time, with the company having provided few details other than that it was making software for mobile phones.\\
+On November 5, 2007, the {\bf Open Handset Alliance}, a consortium of technology companies including Google, device manufacturers such as HTC, Motorola and Samsung, wireless carriers such as Sprint and T-Mobile, and chipset makers such as Qualcomm and Texas Instruments, unveiled itself, with a goal to develop "the first truly open and comprehensive platform for mobile devices".\\
+The first commercially available smartphone running Android was the {\bf HTC Dream}, also known as T-Mobile G1, announced on September 23, 2008.\\
+
+\section{Features}
+
+\subsection{Application Framework}
+The android framework is the set of API's that allow developers to quickly and easily write apps for android phones. It consists of tools for designing UIs like buttons, text fields, image panes, and system tools like intents (for starting other apps/activities or opening files), phone controls, media players, ect.\\ Essentially an android app consists of Activities (programs that the user interacts with), services (programs that run in the background or provide some function to other apps), and broadcast receivers (programs that catch information important to your app). \\
+
+\subsection{Dalvik Virtual Machine}
+The Dalvik Virtual Machine (DVM) is an android virtual machine optimized for mobile devices. It optimizes the virtual machine for memory, battery life and performance.\\
+Dalvik is a name of a town in Iceland. The Dalvik VM was written by Dan Bornstein.\\
+The Dex compiler converts the class files into the .dex file that run on the Dalvik VM. Multiple class files are converted into one dex file.\\
+
+\subsection{Integrated Browser}
+ Integrated web browser is the fastest way to show rich content and to make cross-platform application.\\ Also it is a good way to make app development cheaper, you need one guy to make it running on specific platform and bunch of cheaper guys to make web app or app based on web technologies.\\
+
+\subsection{Optimized Graphics}
+An Android has 2D Graphics Library and 3D Graphics based on Open GLES 1.0. It provides great functions for apps such as Google Earth and many high graphics games.\\
+
+\subsection{SQL}
+Android provides many ways to store data, SQLite Database is one of them that is already include in android OS.\\ SQLite is a Open Source SQL database that stores data to a text file on a device.\\
+
+\subsection{Data Storage}
+Android provides many kinds of storage for applications to store their data. The  data storage options are the following:
+\begin{itemize} 
+\item Use Shared Preferences for primitive data.
+\item Use internal device storage for private data.
+\item Use external storage for large data sets that are not private.
+\item Use SQLite databases for structured storage.
+\end{itemize}\\
+
+
+\subsection{Connectivity}
+Android provides rich APIs to let your app connect and interact with other devices over Bluetooth, NFC, Wi-Fi P2P, USB, and SIP, in addition to standard network connections.\\
+
+\subsection{Messaging}
+It would be safe to say that nearly every mobile phone sold in the past decade has SMS messaging capabilities.\\ In fact, SMS messaging is one great killer application for the mobile phone and it has created a steady revenue stream for mobile operators.\\
+
+\subsection{Web Browser}
+There are several available web browser which provide many features apart from just browsing the internet.\\
+
+\subsection{Media Support}
+Android will support advance audio, video, still media formats such as MPEG4, H.264, MP3, AAC. AMR, JPEG, PNG and GIF.\\
+
+\subsection{Additional Hardware Support}
+Android is fully capable of utilizing video, still camera, Touchscreens, GPS, Compasses, Accelerometer and Accelerated 3D Graphics. \\
+
+\subsection{Development Environment}
+Development Environment for any Android application consists of four main components:-
+\begin{enumerate}
+\item Java Development Kit (JDK)
+\item Android SDK
+\item Integrated Development Environment (IDE)
+\item Android Development Tools (ADT)
+\end{enumerate}
+
+\newpage
+\section{Android Version}
+The version history of the Android mobile operating system began with the public release of the Android beta in November 5, 2007. The first commercial version, Android 1.0, was released in September 2008. Android is continually developed by Google and the Open Handset Alliance, and it has seen a number of updates to its base operating system since the initial release.\\
+
+\vspace{0.6cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[width=7.0cm]{versions.jpg}
+\caption{Android Versions}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+Versions 1.0 and 1.1 were not released under specific code names. Android code names are confectionery-themed and have been in alphabetical order since 2009's Android 1.5 Cupcake, with the most recent major version being Android 7.0 Nougat, released in August 2016.\\
+
+
+
+
+\newpage
+\chapter{\bf About Software}
+\section{Android Studio}
+Android Studio is the official integrated development environment (IDE) for Google's Android operating system, built based on JetBrains' IntelliJ IDEA software and designed specifically for Android development.\\ It is available for download on Windows, macOS and Linux based operating systems. It is a replacement for the Eclipse Android Development Tools (ADT) as primary IDE for native Android application development.\\
+\vspace{0.6cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[width=6.0cm]{studio.png}
+\caption{Android Studio}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+Android Studio was announced on May 16, 2013 at the Google I/O conference. It was in early access preview stage starting from version 0.1 in May 2013, then entered beta stage starting from version 0.8 which was released in June 2014. The first stable build was released in December 2014, starting from version 1.0. The current stable version is 2.3.3, released in June 2017. Next major update, version 3.0, is in preview stage as of August 2017.
+
+
+
+
+\subsection{ Architecture}
+Android is structured in the form of a software stack comprising applications, an operating system, run-time environment, middleware, services and libraries.\\ This architecture can, perhaps, best be represented visually as outlined in Figure 3.2. Each layer of the stack, and the corresponding elements within each layer, are tightly integrated and carefully tuned to provide the optimal application development and execution environment for mobile devices.
+\vspace{0.6cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[width=9.0cm]{architecture.png}
+\caption{Android Architecture}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+
+In addition to a set of standard Java development libraries (providing support for such general purpose tasks as string handling, networking and file manipulation), the Android development environment also includes the Android Libraries. \\These are a set of Java-based libraries that are specific to Android development. Examples of libraries in this category include the application framework libraries in addition to those that facilitate user interface building, graphics drawing and database access.
+
+
+\chapter{Components of Android}
+\section{Core Buliding Blocks}
+An android component is simply a piece of code that has a well defined life cycle e.g. Activity, Receiver, Service etc. The core building blocks or fundamental components of android are activities, views, intents, services, content providers, fragments and Android Manifest.xml.\\\\
+
+
+\subsection{Activity}
+An Activity is a class that represents a single screen. It is like a Frame in AWT. a onetoone An An application may contain one or more activities. They are typically on from relationship with found in application. An application moves the screens a one activity to another by calling method known as startActivity() or start Su a Tlie for metliod is d when tle application desires to simply "switch"  to the new activity. \\
+
+\subsection{View}
+The Android activity employs views to display UI elements. Views follow one of the following layout designs: 
+Linear Vertical :
+Each subsequent element follows its predecessor by flowin beneath it in a single c Linear Horizontal: Each subsequent element follows its predecessor by flowing to the right in a single row. 
+Relative :
+Each subsequent element is described in terms of offsets from the prior element. 
+Table :
+A series of rows and columns similar to HTML tables. Each cell can hold one view element. Once a particular layout (or combination of layouts) has been selected. individ ual views are used to present the UI. 
+View elements consist of familiar Ul elements, including:\\ 
+\begin{itemize}
+\item{Button}
+\item{ImageButton}
+\item{Edittext}
+\item{Textview}
+\item{Check Box}
+\item{Radio Button}
+\item{List}
+\item{Grid}
+\item{Datapicker}
+\item{Timepicker}
+\item{Spinner}
+\item{AutoComplete(EditText with auto textcomplete feature)}\\
+Views are defined in an XML file.\\
+
+\subsection{Intent}
+Intent is used to invoke components. It is mainly used to:
+\begin{enumerate}
+\item{Start the service}
+\item{Launch an activity}
+\item{Display a web page} 
+\item{Display a list of contacts} 
+\item{Broadcast a message}
+\item{Dial a phone call etc}\\
+
+ \subsection{Service and Receivers}
+Service is a background process that can run for a long time. There are two types Service is a background of services local and remote. Local service is accessed from within the application whereas remote service is accessed remotely from other applications running on the same device.\\\\ 
+The receiver is an application component that receives requests to process intents. Like the service, a receiver does not, in normal practice, have a UI element. Receivers are typically registered in snippet in Listing 1 is an example of a receiver application. Note that the class attribute of the receiver is the Java class responsible for implementing the receiver.\\
+
+\subsection{Content Provider}
+The Content Provider is amechanism to abstract access to a particular data store In many ways, the Content Provider acts in the role of a database server operations to rend aid write content o a particular data store should be passed through ari appropriate Contcut Provider. rather tlian accessing a file or database directly There may be both "clients" wild implementations of the Content Provider Content Providers are used to share data between the applications.\\
+
+\subsection{Fragments}
+Android Fragment is the part of artivity, it is also known as subactivity. There be more than oue fragment in an activity.\\ Fragments reprosent multiple screen inside one activity. Android fraginent lifecycle is affected by activity lifecycle becauso fragments ure in- cluded in activity.\\ Each fragment has its own lifecycle methods that is affected bv activity life cycle because fragments are embedded in activity The Fragment Manager class is responsible to make interaction between fragment objects.\\
+
+\subsection{Android Manifest.xml}
+The manifest does a number of things in addition to declaring the app's components. such as:\\
+\begin{enumerate}
+\item{Identify any user permissions the app requires, such as Internet access or readac- cess to the user's contacts.}
+\item{ Declare the minimum API Level required by the app, based on which APIs the app uses.}
+\item{ Declare hardware and software features used or required by the app. such as a camera, bluetooth services, or a multitouch screen.}
+\item{ API libraries the app needs to be linked against (other than the Android frame- work APIs), such as the Google Maps library.}\\
+
+\subsection{Android Virtual Device}
+It is used to test the android application the need for mobile or tablet etc. It withou can be created in different configurations to emulate different types of real devices.\\
+
+\subsection{Broadcast Receivers}
+A broadcast receiver is a component that responds to systemwide broadcast announcements Many broadcasts originate from the systemfor example, a broadcast announcing that the screen has turned off, the battery is low or a picture was captured. Apps can also initiate broadcastsfor example, to let other apps know that some data has been downloaded to the device and is available for them to use Although broadcast receivers don't display a user interface, they may create a status bar uctification to alert the user when a broadcast event occurs. More comuonly tliough, a broadcast receiver is just a gateway" to other components and is intended to do a very minimal amount of work. For instance, it might initiate a service to perform some work based on the event A broadcast receiver is implemented as a luis of BroadcastReceiver and each broadcast is delivered as an Intent object.\\
+
+\section{Design Components}
+
+\subsection{Toast}
+Design Components Toast id Toast can be used to display information for the short period of time.\\
+
+
+\subsection{Option Menu}
+ Option Menu Android of android. They can be used for Option Menus are the primary mem settings, search, delete item etc. class. We can influite the menu by calling the inflate() method of MenuInflater To perform event handling on menu item von need to override onoptionsItem- Selected() method of Activity class.\\
+
+
+\subsection{Context1 Menu}
+ Android context menu apporus when user lomit is also known as press click on the element.it floating menu. \\
+It doesn't support iteu shortcuts and icons.\\
+
+
+\subsection{Popup Menu}
+ Android Popup Menu displays the menu below the anchor text if spare is avail- able otherwise above the anchor text. It disappears if you click outside the popup minit The android widget PopupMenu is the dirvot subelass of java lang object clase \\\\
+\subsection{Progress Bar}
+We can display theandroid progress bar dialog box to  display the status being done e g downloading hie, anailyving, status of work etc.\\
+ We are using android app Progress Dialog class to show the progress bar, An- droid Progres Ditlog is the subcliu of Alert Dialog class.\\
+ The ProgressDialog ela provides wirthods to work on progress bat likesetProgress0. set Message(), set Progress Set Max(),show() etc
+ The progress range of Progress Dialog is 0 to 10000 .\\
+
+\subsection{Alert Dialog Box}
+Android Alert Dialog can be used to display the dialog message with OK and Cancel buttons. It can be used to interrupt and ask the user about his/her choice to continue or discontinue.\\
+ Android Alert Dialog is composed of three regions: title, content area and action buttons. Android Alert Dialog is the subclass of Dialog class.\\
+
+\subsection{AutoComplete TextView }
+Android AutoComplete Text View completes the word based on the reserved words, so no need to write all the characters of the word. Android AutoComplete. Text View is a editable text field, it displays a list of suggestions in a drop down menu from which user can select only one suggestion or value.
+Android AutoCompleteTextView is the subclass of EditText class. The Multi Auto Complete TextView is the subclass of AutoComplete TextView class .\\
+
+\subsection{Sharedpreferences}
+ Android Shared Preference is used to store and retrieve primitive information In android, string, integer, long. number etc. are considered as primitive data type Android Shared preferences are used to store data in key and value pair so that we can retrieve the value on the basis of key It is widely used to get information from user such as in settings .\\
+
+\subsection{Navigation Drawer}
+The Navigation Drawer is a panel that displays the apps main navigation option on the left edge of the screen. It is hidden most of the time, but is revealed when the user swipes a from the left edge of the sereen or, while at the top level of finger the app, the user touches the app icon in the action but using the Drawer.\\
+ This lesson describes how to implement a tavigation drawer Layout APIs available in the Support Library with a DrawerLayout object as To add a navigation drawer, declare user interface cont the root view of your layout. Inside the add one view that hidden) the main content for the screen (your primary layout when the drawer is and another view that contains the contents of the navigation drawer.\\
+
+\subsection{Spinner}
+Android spinner is like the combox box of AWT or swing. It can be used to the multiple options to the user in which only one item can be selected by the user. Android spinner is like the drop down menu with multiple values from Ca which the end user can select only one value. Android spinner is associated witli cs Adapterview. So you need to use one of the adapter classes with spinner. Android Spinner class is the subclass of AsbSpinner class.\\
+
+
+\subsection{Card View}
+n simple terms, Android CardView is such a view which has all material design properties, most importantly showing shadows according the elevation. The best part about this view is that it extends FrameLayout and it can be displayed on all the platforms of android since it’s available through the Support v7 library.\\
+CardView is another major element introduced in Material Design. Using CardView you can represent the information in a card manner with a drop shadow (elevation) and corner radius which looks consistent across the platform. CardView extends the FrameLayout and it is supported way back to Android 2.x.\\
+You can achieve good looking UI when CardView is combined with RecyclerView. In this article we are going to learn how to integrate CardView with RecyclerView by creating a beautiful music app that displays music albums with a cover image and title.
+
+\subsection{ExpandableList View}
+{\bf Expandable lists} are able to show an indicator beside each item to display the item's current state and the states are usually one of expanded group, collapsed group, child, or last child. Use setChildIndicator or setGroupIndicator (or the corresponding XML attributes) to set these indicators (see the docs for each method to see additional state that each Drawable can have).\\
+ The default style for an ExpandableListView provides indicators which will be shown next to Views given to the ExpandableListView. The layouts android.R.layout.simple_expandable_list_item_1 and android.R.layout.simple_expandable_list_item_2 (which should be used with SimpleCursorTreeAdapter) contain the preferred position information for indicators.
+
+
+
+\chapter{Database Description}
+
+\section{AsyncTask}
+AsyncTask enables proper and easy use of the UI thread. This class allows you to perform background operations and publish results on the UI thread without having to manipulate threads and/or handlers.\\
+
+AsyncTask is designed to be a helper class around Thread and Handler and does not constitute a generic threading framework. AsyncTasks should ideally be used for short operations (a few seconds at the most.) If you need to keep threads running for long periods of time, it is highly recommended you use the various APIs provided by the java.util.concurrent package such as Executor, ThreadPoolExecutor and FutureTask.\\
+
+An asynchronous task is defined by a computation that runs on a background thread and whose result is published on the UI thread. An asynchronous task is defined by 3 generic types, called Params, Progress and Result, and 4 steps, called onPreExecute, doInBackground, onProgressUpdate and onPostExecute.\\
+
+
+
+
+\section{API Calling}
+There are many times when your Android app will need to fetch data from the internet, to provide users with fresh information and/or data. There are different ways your app could achieve this. You could set up your own web service/API, or you could be fetching from an already existing service/API. In this article, we discuss how to use a web API from within your Android app, to fetch data for your users.\\
+
+There are two major methods for retrieving data from most web services, XML or JSON. XML stand for eXtensible Markup Language, and its syntax somewhat resembles HTML (Hyper Text Markup Language), in that they are both markup languages.\\
+
+JSON stands for JavaScript Object Notation, which is a nod to the fact that it is a syntax that was developed for the Javascript language, as a means of parsing Objects between programs. JSON has a comparatively standardized syntax, compared to XML.\\
+
+While some web APIs do not require an API key, you would be hard pressed to find one that provides any useful/interesting service and doesn’t require an API key. The API key should be thought of as your unique identifier to the API provider.
+
+
+
+
+\chapter{Screenshots and Descriptions}
+\section{Splash Screen}
+
+\vspace{0.6cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[width=7.0cm]{splashscreen.png}
+\caption{Splash Screen}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+
+This  splash screen is a graphical control element consisting of a window containing an image, a logo, and the current version of the software. A splash screen usually appears while a game or program is launching.
+A splash page is an introduction page on a website.This splash screen may cover the entire screen or web page or may simply be a rectangle near the center of the screen or page. This splash screen will show just for few seconds at every time app open.
+
+
+\section{Intro Slider}
+
+\vspace{0.6cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[width=8.0cm]{introslider.png}
+\caption{Intro Slide}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+
+Adding Welcome / Intro screens in your app is a great way of showcasing the major features of the app. Previously I explained about adding a static Splash Screen to your app. In this article we are going to learn how to add an intro slider to your app where user can swipe through few slides before getting into app.\\
+
+This intro slidem will be  used to show a short description about our application.\\
+It will show only first time when our application will installes in your mobile phone.Otherwise it directly move on login page.
+
+
+
+
+
+\newpage
+
+\section{Sign Up Page}
+
+\vspace{0.6cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[width=8.0cm]{signup.jpeg}
+\caption{Sign Up}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+
+
+Sign up page contains all the user basics details such as {\bf Full Name, E-mail, Mobile Number, Password, City,States}. In this, some fields are mandatory, without fill this you can not complete sign up. And this mandatory files like {\bf  Full Name, E-mail, Mobile Number, Password}.
+
+
+
+\newpage
+\section{OTP}
+
+\vspace{0.6cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[width=8.0cm]{otp.jpeg}
+\caption{OTP}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+
+
+{\bf OTP} will be used to verify registered {\bf Mobile Number}.And it will check user fill mobile number is right or not.\\\\
+
+
+\newpage
+\section{Login}
+
+\vspace{0.6cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[width=8.0cm]{login.jpeg}
+\caption{Log In}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+
+This screen will be used to login only for the registerd user with their Mobile Number and Password.Without registerd user can not login or can't see the our application functionality.
+
+
+
+
+\newpage
+\section{Forgot Password}
+
+
+\vspace{0.6cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[height=8.0cm]{forgotpassword.jpeg}
+\caption{Forgot Password}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+
+{\bf  Forgot Password}  will be used in that condition if user forgot his password and wants to change that password.User new password will be send on his verified E-mail Id.
+
+
+
+
+
+\newpage
+\section{Category}
+
+
+\vspace{0.6cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[height=8.0cm]{categorysub.png}
+\caption{Category}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+
+{\bf Category} page shown after the login. It is the main page of our application. It will provide many services that will help to user and all persons.\\
+
+After click on any category, it will open its {\bf Subcategory}. These both show the details of servant.
+
+
+
+
+\newpage
+\section{User Profile}
+
+
+\vspace{0.6cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[height=8.0cm]{userprofile.jpeg}
+\caption{User Profile}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+
+{\bf User Profile} fields contains all the basic information of user.If user wants to add his image and also wants to change any field.\\ 
+These all type of updates are available on this application.But user can not update his Mobile Number. If user wants to change mobile number, in that case, again signup required.\\ 
+If user want to logout our app, this facility also provide in this page.
+
+
+
+
+\newpage
+\section{Search By Category}
+
+\vspace{0.6cm}
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[height=8.0cm]{searchbycategory.jpeg}
+\caption{Search By Category}
+\end{center}
+\end{figure}
+
+ \vspace{0.2cm}
+
+We use google map to check user location and servant location.By this location, we can find nearest available workers and their distance with user.\\
+{\bf Search servant according to their Category} and also have a dialog that contails particular servant details. A call facility also provide in this application through directly contact to servant.
+
+
+
+
+
+ 
+\chapter{Conclusion and Future Enhancement}
+\section{Conclusion}
+Finally We would like to conclude that in the 6 weeks while we were working on this project we learned many new technologies, concepts and have also learn about working in a team. Our project {\bf RIGHT HAND} application is based on finding services according to their need. This insulates the application from technical implementation and enhancement to support future technologies in a transparent manner without having the major impact on the application. This also enables the easy portability of application to other operating system and databases. \\\\
+Thus we were able to understand in greater details the various software engineering processes, and were able to apply them to our live project. With due regards, We want to express our heart-felt thanks to all for their support and corporation towards the completion of our project. 
+
+
+\section{Future Enhancement}
+The application`RIGHT HAND’ will be a Reporting application that will be used for search workers according to category or your need .The application will contains the details of all the servant.\\
+This system can be more useful if we add a module where candidates can sign up and even chat on the app for availability.Temporary services can be added to current categories.Such as Electrician, Plumber etc..\\\\
+
+
+
+
+\newpage
+\chapter{References}
+\\
+\\
+
+\section{Site Reference:-}
+\begin{enumerate}
+\item \url{http://www.w3schools.com}  
+\item \url{https://www.androidhive.info}
+\item \url{http://www.tutorialspoint.com}
+\item \url{https://github.com}
+\item \url{https://developer.android.com}
+
+
+
+\end{enumerate}  
+
+\end{document}

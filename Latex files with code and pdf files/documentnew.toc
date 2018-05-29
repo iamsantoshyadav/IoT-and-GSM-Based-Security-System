@@ -1,0 +1,81 @@
+\contentsline {chapter}{Candidate\IeC {\textquoteright }s Declaration}{ii}
+\contentsline {chapter}{Bonafide Certificate}{iii}
+\contentsline {chapter}{Acknowledgement}{iv}
+\contentsline {chapter}{Abstract}{v}
+\contentsline {chapter}{\numberline {1}Smart Security System}{7}
+\contentsline {section}{\numberline {1.1}Introduction}{7}
+\contentsline {section}{\numberline {1.2}Background}{8}
+\contentsline {section}{\numberline {1.3}Aim of this Project}{8}
+\contentsline {section}{\numberline {1.4}History}{9}
+\contentsline {section}{\numberline {1.5} Methodology}{9}
+\contentsline {section}{\numberline {1.6}Significance of this Work}{10}
+\contentsline {section}{\numberline {1.7}Outline}{10}
+\contentsline {section}{\numberline {1.8}Conclusion}{11}
+\contentsline {chapter}{\numberline {2}Literature Review }{12}
+\contentsline {section}{\numberline {2.1}Existing technologies related to our project}{12}
+\contentsline {section}{\numberline {2.2}Introduction (Study of papers)}{13}
+\contentsline {section}{\numberline {2.3}Research Approach}{14}
+\contentsline {section}{\numberline {2.4}Modules of project }{15}
+\contentsline {subsection}{\numberline {2.4.1}Survey}{16}
+\contentsline {subsection}{\numberline {2.4.2}Study of Software and Hardware}{16}
+\contentsline {subsection}{\numberline {2.4.3}Design of the Advance Security System}{16}
+\contentsline {subsection}{\numberline {2.4.4}Implementation}{16}
+\contentsline {chapter}{\numberline {3}System Architecture}{17}
+\contentsline {section}{\numberline {3.1}Overview}{17}
+\contentsline {subsection}{\numberline {3.1.1}Load controlling system}{17}
+\contentsline {subsection}{\numberline {3.1.2}Motion detector or Theft Detection unit}{17}
+\contentsline {subsection}{\numberline {3.1.3}Fingerprint sensing unit}{18}
+\contentsline {subsection}{\numberline {3.1.4}Image Capturing \& storage unit}{18}
+\contentsline {section}{\numberline {3.2}Reaction of sensors \& Flow chart}{19}
+\contentsline {subsection}{\numberline {3.2.1}Reaction of Sensors}{19}
+\contentsline {subsection}{\numberline {3.2.2}Flow Chart}{19}
+\contentsline {section}{\numberline {3.3}Algorithm}{20}
+\contentsline {chapter}{\numberline {4}\bf Implementation of Project }{21}
+\contentsline {section}{\numberline {4.1}Software Requirement }{21}
+\contentsline {subsection}{\numberline {4.1.1}ATmel Studio}{21}
+\contentsline {subsection}{\numberline {4.1.2}Proteus Design Suite}{22}
+\contentsline {subsection}{\numberline {4.1.3}Microchip}{23}
+\contentsline {subsection}{\numberline {4.1.4}MATLAB}{25}
+\contentsline {subsection}{\numberline {4.1.5}Internet of Things}{27}
+\contentsline {subsection}{\numberline {4.1.6}Embedded System}{28}
+\contentsline {subsection}{\numberline {4.1.7}Blynk Application}{29}
+\contentsline {chapter}{\numberline {5}Hardware Requirement}{30}
+\contentsline {section}{\numberline {5.1}List of Hardware Components}{30}
+\contentsline {section}{\numberline {5.2}ATmega 8 Microcontroller }{30}
+\contentsline {subsection}{\numberline {5.2.1}Atmega8 Microcontroller Pin Description}{31}
+\contentsline {section}{\numberline {5.3}RS305 Fingerprint Module }{32}
+\contentsline {section}{\numberline {5.4}GSM Module }{34}
+\contentsline {subsection}{\numberline {5.4.1}GSM Architecture}{36}
+\contentsline {subsection}{\numberline {5.4.2}Working of GSM Module:}{36}
+\contentsline {section}{\numberline {5.5}Motion Sensor }{36}
+\contentsline {subsection}{\numberline {5.5.1}How PIRs Work}{36}
+\contentsline {section}{\numberline {5.6}ESP 8266 Wifi Module }{37}
+\contentsline {section}{\numberline {5.7}LCD 16X2 Display }{39}
+\contentsline {subsection}{\numberline {5.7.1}Displaying Custom Characters on 16X2 LCD}{39}
+\contentsline {subsection}{\numberline {5.7.2}PIN Discription}{40}
+\contentsline {section}{\numberline {5.8}Webcam }{41}
+\contentsline {section}{\numberline {5.9}Basic Electronics components }{41}
+\contentsline {chapter}{\numberline {6}Design of PCB Layout }{42}
+\contentsline {section}{\numberline {6.1}Simulation using proteus sesign suite}{42}
+\contentsline {section}{\numberline {6.2}PCB Layout}{43}
+\contentsline {section}{\numberline {6.3}Hardware Components and Configuration of the Proposed System}{44}
+\contentsline {section}{\numberline {6.4}Programing}{44}
+\contentsline {chapter}{\numberline {7}Prototype of Project}{46}
+\contentsline {section}{\numberline {7.1}Design}{46}
+\contentsline {subsection}{\numberline {7.1.1}Control Unit }{46}
+\contentsline {subsection}{\numberline {7.1.2}Demonstration Model}{47}
+\contentsline {subsection}{\numberline {7.1.3}IOT section}{47}
+\contentsline {subsection}{\numberline {7.1.4}GSM module section}{48}
+\contentsline {chapter}{\numberline {8}Project Evaluations }{49}
+\contentsline {section}{\numberline {8.1}Results and Analysis}{49}
+\contentsline {subsection}{\numberline {8.1.1}Analysis for Valid User}{49}
+\contentsline {subsection}{\numberline {8.1.2}Analysis for Invalid User}{49}
+\contentsline {subsection}{\numberline {8.1.3}Analysis of Motion or Light Detection unit}{51}
+\contentsline {subsection}{\numberline {8.1.4}Trials}{52}
+\contentsline {chapter}{\numberline {9}Future Scope}{53}
+\contentsline {section}{\numberline {9.1}Conclusion}{53}
+\contentsline {section}{\numberline {9.2}Applications}{54}
+\contentsline {chapter}{\numberline {10}Refrences}{55}
+\contentsline {section}{\numberline {10.1}Journal articles}{55}
+\contentsline {section}{\numberline {10.2}Conference paper}{56}
+\contentsline {section}{\numberline {10.3}URL'S}{57}

@@ -1,0 +1,60 @@
+\contentsline {chapter}{\numberline {1}Advance Security System}{5}
+\contentsline {section}{\numberline {1.1}Introduction}{5}
+\contentsline {section}{\numberline {1.2}Background}{6}
+\contentsline {section}{\numberline {1.3}Aim of this Project}{6}
+\contentsline {section}{\numberline {1.4}History}{7}
+\contentsline {section}{\numberline {1.5} Methodology}{7}
+\contentsline {section}{\numberline {1.6}Significance of this Work}{8}
+\contentsline {section}{\numberline {1.7}Outline}{8}
+\contentsline {section}{\numberline {1.8}Conclusion}{9}
+\contentsline {chapter}{\numberline {2}Literature Review }{10}
+\contentsline {section}{\numberline {2.1}Existing technologies related to our project}{10}
+\contentsline {section}{\numberline {2.2}Introduction (Study of papers)}{11}
+\contentsline {section}{\numberline {2.3}Research Approach}{12}
+\contentsline {section}{\numberline {2.4}Modules of project }{13}
+\contentsline {subsection}{\numberline {2.4.1}Survey}{14}
+\contentsline {subsection}{\numberline {2.4.2}Study of Software and Hardware}{14}
+\contentsline {subsection}{\numberline {2.4.3}Design of the Advance Security System}{14}
+\contentsline {subsection}{\numberline {2.4.4}Implementation}{14}
+\contentsline {chapter}{\numberline {3}System Architecture}{15}
+\contentsline {section}{\numberline {3.1}Overview}{15}
+\contentsline {subsection}{\numberline {3.1.1}Load controlling system}{15}
+\contentsline {subsection}{\numberline {3.1.2}Motion detector or Theft Detection unit}{15}
+\contentsline {subsection}{\numberline {3.1.3}Fingerprint sensing unit}{16}
+\contentsline {subsection}{\numberline {3.1.4}Image Capturing \& storage unit}{16}
+\contentsline {section}{\numberline {3.2}Reaction of sensors \& Flow chart}{17}
+\contentsline {subsection}{\numberline {3.2.1}Reaction of Sensors}{17}
+\contentsline {subsection}{\numberline {3.2.2}Flow Chart}{17}
+\contentsline {section}{\numberline {3.3}Algorithm}{18}
+\contentsline {chapter}{\numberline {4}\bf Implementation of Project }{19}
+\contentsline {section}{\numberline {4.1}Software Requirement }{19}
+\contentsline {subsection}{\numberline {4.1.1}ATmel Studio}{19}
+\contentsline {subsection}{\numberline {4.1.2}Proteus Design Suite}{20}
+\contentsline {subsection}{\numberline {4.1.3}Microchip}{21}
+\contentsline {subsection}{\numberline {4.1.4}MATLAB}{23}
+\contentsline {subsection}{\numberline {4.1.5}Internet of Things}{25}
+\contentsline {subsection}{\numberline {4.1.6}Embedded System}{26}
+\contentsline {section}{\numberline {4.2}\bf Hardware Requirement}{27}
+\contentsline {subsection}{\numberline {4.2.1}ATmega 8 Microcontroller }{27}
+\contentsline {subsection}{\numberline {4.2.2}RS305 Fingerprint Module }{29}
+\contentsline {subsection}{\numberline {4.2.3}GSM Module }{31}
+\contentsline {subsection}{\numberline {4.2.4}Motion Sensor }{33}
+\contentsline {subsection}{\numberline {4.2.5}ESP 8266 Wifi Module }{34}
+\contentsline {subsection}{\numberline {4.2.6}LCD 16X2 Display }{35}
+\contentsline {subsection}{\numberline {4.2.7}PIN Discription}{37}
+\contentsline {subsection}{\numberline {4.2.8}Webcam }{37}
+\contentsline {subsection}{\numberline {4.2.9}Basic Electronics components }{38}
+\contentsline {chapter}{\numberline {5}Design of PCB Layout }{39}
+\contentsline {section}{\numberline {5.1}Simulation using proteus sesign suite}{39}
+\contentsline {section}{\numberline {5.2}PCB Layout}{40}
+\contentsline {section}{\numberline {5.3}Hardware Components and Configuration of the Proposed System}{41}
+\contentsline {section}{\numberline {5.4}Programing}{41}
+\contentsline {chapter}{\numberline {6}Project Evaluations }{43}
+\contentsline {section}{\numberline {6.1}Result}{43}
+\contentsline {chapter}{\numberline {7}Future Scope}{45}
+\contentsline {section}{\numberline {7.1}Conclusion}{45}
+\contentsline {section}{\numberline {7.2}Applications}{45}
+\contentsline {section}{\numberline {7.3}Refrences}{46}
+\contentsline {subsection}{\numberline {7.3.1}[B] Journal articles}{46}
+\contentsline {subsection}{\numberline {7.3.2}[D] Conference paper}{47}
+\contentsline {subsection}{\numberline {7.3.3}[G] URL'S}{48}

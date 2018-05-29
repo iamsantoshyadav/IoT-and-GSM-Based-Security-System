@@ -1,0 +1,19 @@
+
+1 & Security and Usability Improvement on a Digital Door Lock System based on Internet of Things & Ilkyu Ha &	Researchgate (December 2016) & In this paper we get an algorithm for implementation of digital door lock & 2015 \\
+\hline
+2 & Technology trends and prospects of development of IoT (M2M) & C. Pyo, H. Gang, N. Kim and H. Bang & OSIA Standards & Technology Review, vol. 26, no. 2, & This article was helpful for understanding the concept of internet of things & 2013\\
+\hline
+3 & A low cost GSM/GPRS based wireless home security system & Yanbo Zhao ,  Zhaohui Ye	IEEE Transactions on Consumer Electronics ( Volume: 54, Issue: 2 ) & In this paper we found that how we can implement a low cost wireless security system & 2008\\
+\hline
+4 & On-line fingerprint verification & A. Jain , Lin Hong , R. Bolle & IEEE Transactions on Pattern Analysis and Machine Intelligence ( Volume: 19, Issue: 4) & This paper was helpful in understanding the concept of fingerprint verification & 1997\\
+\hline
+5 & A door-opening system using a low-cost fingerprint scanner and a PC	M. Faundez-Zanuy & IEEE Aerospace and Electronic Systems Magazine ( Volume: 19, Issue: 8) & This paper helped us to develop a low cost fingerprint access door lock systems & 2004\\
+\hline
+6 & Remote Monitoring Intelligent System Based on Fingerprint Door Lock & Wu Ping ;  Wu Guichu ;  Xie Wenbin ;  Lu Jianguo ;  Li Peng & IEEE Intelligent Computation Technology and Automation (ICICTA) & In this paper we get algorithms for monitoring of security system based on fingerprint & 2010\\
+\hline
+7 & A camera-based system for tracking people in real time & J. Segen & IEEE & This paper was helpful for development of camera on a system which can monitor real time tracking & 1996\\
+\hline
+8 & Security system with maskable motion detection and camera with an adjustable field of view & Jennifer L. Randall & Grant, US6727938 B1 & In this paper we found algorithm for implement a motion detection system & 1997\\
+\hline
+9 & Design and Implementation of Security Systems for Smart Home based on GSM technology & Jayashri Bangali and Arvind Shaligram & International Journal of Smart Home & This papers helped us to know interfacing of GSM technology with security system & 2013\\
+

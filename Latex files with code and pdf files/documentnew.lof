@@ -1,0 +1,48 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Basic Overview}}{7}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Methodology [16]}}{9}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Main Block Diagram}}{18}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Reaction of each sensors [16]}}{19}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Flow Chart of Project}}{20}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces ATmel Studio Interface [27]}}{22}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Proteus Design Suite Interface}}{23}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Microchip Interface[28]}}{24}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces MATLAB Interface[29]}}{25}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Internet of Things [30]}}{27}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Embedded System [31]}}{28}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Blynk Application [37]}}{29}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces ATmega 8 IC}}{31}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces ATmega 8 PIN Diagram}}{31}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces ATmega 8 Architecture}}{33}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces RS305 Fingerprint Module}}{34}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces GSM Module [32]}}{35}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Motion Sensor [33]}}{37}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Motion Sensor [33]}}{37}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Working Animation [33]}}{38}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces ESP 8266 Module [36]}}{38}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces ESP 8266 Module [34]}}{39}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Webcam [35]}}{41}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Basic Electronics Components}}{41}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Simulation of circuit}}{42}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Layout of transmitter section }}{43}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Layout of ATmega 8 controller section }}{43}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Hardware }}{44}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Coding of desired hardware }}{45}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Coading for desired message }}{45}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Control Unit }}{46}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Demonstration Model }}{47}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces IoT Section }}{47}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces GSM and Theft Detection Section }}{48}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Door Unlocked During Valid Users }}{49}
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Blynk App Notification During Both These Cases}}{50}
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Capture image with webcam during analysis of Invalid user}}{51}
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Alert Message}}{51}
+\addvspace {10\p@ }
+\addvspace {10\p@ }

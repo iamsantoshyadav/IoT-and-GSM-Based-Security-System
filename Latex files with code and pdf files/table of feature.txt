@@ -1,0 +1,6 @@
+The design of a biometric and web cam based door locking security system using IOT and MATLAB is a complex design which
+comprises of so many modules (parts) brought together to form the overall design. Each of these modules is
+made up of discrete components and modules that are joined together to achieve a particular purpose. 
+These separate modules are: The Power Supply Unit, The Buzzer Unit, The micro controller Unit, Webcam unit, Biometric unit, GSM unit, Image processing unit
+Switching unit.
+These different units can be function alone, for the desired result they all need to function together.

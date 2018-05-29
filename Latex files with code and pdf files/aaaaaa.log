@@ -1,0 +1,1936 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.16)  4 MAY 2018 14:52
+entering extended mode
+**./aaaaaa.tex
+(aaaaaa.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk10.clo"
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Users\Acer camputer\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr
+.sty"
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip43
+\f@nch@O@elh=\skip44
+\f@nch@O@erh=\skip45
+\f@nch@O@olh=\skip46
+\f@nch@O@orh=\skip47
+\f@nch@O@elf=\skip48
+\f@nch@O@erf=\skip49
+\f@nch@O@olf=\skip50
+\f@nch@O@orf=\skip51
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
+Package: parskip 2001/04/09 non-zero parskip adjustments
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks18
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+
+LaTeX Warning: Unused global option(s):
+    [16pt].
+
+(aaaaaa.aux)
+\openout1 = `aaaaaa.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+
+("C:\Users\Acer camputer\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.m
+kii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen113
+\scratchbox=\box26
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen114
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks20
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(33.75616pt, 513.11743pt, 50.63428pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.1496pt
+* \textheight=677.17558pt
+* \oddsidemargin=-29.81827pt
+* \evensidemargin=-29.81827pt
+* \topmargin=-29.81827pt
+* \headheight=22.76219pt
+* \headsep=8.53581pt
+* \topskip=10.0pt
+* \footskip=51.21495pt
+* \marginparwidth=115.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<logo.jpg, id=1, 185.94469pt x 195.73125pt>
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 82.
+(pdftex.def)             Requested size: 85.35826pt x 89.85228pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 98.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 98.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 98--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--103
+
+ []
+
+
+Overfull \hbox (11.05748pt too wide) in paragraph at lines 98--103
+\OT1/cmr/m/n/14.4 Mrs.Hareeta Malani   Mrs. Ha-reeta Malani 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--103
+
+ []
+
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 109--110
+ [] 
+ []
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \vskip 
+l.113 				\vspace{0}
+                    
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[1
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.jpg>]
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 124--125
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--142
+
+ []
+
+[2]
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 146.
+(pdftex.def)             Requested size: 51.21808pt x 53.91435pt.
+ <rtu.png, id=13, 397.485pt x 402.50375pt>
+File: rtu.png Graphic file (type png)
+ <use rtu.png>
+Package pdftex.def Info: rtu.png used on input line 153.
+(pdftex.def)             Requested size: 56.33676pt x 57.04414pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--155
+
+ []
+
+
+Overfull \hbox (5.12648pt too wide) in paragraph at lines 143--155
+[][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--176
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--176
+
+ []
+
+[3 <./rtu.png>]
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 180--183
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--197
+
+ []
+
+[4]
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 201--220
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--220
+
+ []
+
+[5] (aaaaaa.toc [1
+
+
+] [2])
+\tf@toc=\write3
+\openout3 = `aaaaaa.toc'.
+
+ [3] (aaaaaa.lof [4
+
+])
+\tf@lof=\write4
+\openout4 = `aaaaaa.lof'.
+
+ [5] (aaaaaa.lot)
+\tf@lot=\write5
+\openout5 = `aaaaaa.lot'.
+
+
+! Undefined control sequence.
+l.229 			\contentstyleisdeshed
+                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[6
+
+]
+Chapter 1.
+<b1.jpg, id=45, 833.36343pt x 384.6872pt>
+File: b1.jpg Graphic file (type jpg)
+ <use b1.jpg>
+Package pdftex.def Info: b1.jpg used on input line 251.
+(pdftex.def)             Requested size: 284.52756pt x 131.3378pt.
+
+Underfull \vbox (badness 4108) has occurred while \output is active []
+
+ [7
+
+ <./b1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.271 ...ghlights the above mentioned issue and o
+                                                  ers ways to
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.276 ... unlocked, which can be switched on or o
+                                                   via the mobile phone set ...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+
+ []
+
+<f1.jpg, id=53, 712.91344pt x 478.78876pt>
+File: f1.jpg Graphic file (type jpg)
+ <use f1.jpg>
+Package pdftex.def Info: f1.jpg used on input line 287.
+(pdftex.def)             Requested size: 369.88582pt x 248.40904pt.
+ [9 <./f1.jpg>]
+Underfull \vbox (badness 4416) has occurred while \output is active []
+
+ [10]
+[11]
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--354
+
+ []
+
+[12
+
+]
+Underfull \hbox (badness 1303) in paragraph at lines 364--364
+[]\OT1/cmr/m/n/10 [3]Connecting to mo-bile de-vices,Key
+ []
+
+
+Underfull \hbox (badness 4303) in paragraph at lines 364--365
+[]\OT1/cmr/m/n/10 Connection to a mo-bile de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--384
+[]\OT1/cmr/m/n/10 [15] Im-pact de-tec-tion / no-ti-fi-ca-
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 384--384
+\OT1/cmr/m/n/10 tion,Image trans-fer,Recording ac-cess
+ []
+
+
+! LaTeX Error: Command \quotedblbase unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.423 ...fice/home, the owner has to press the „
+                                                  0‟ key
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char ‟ (U+201F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.423 .../home, the owner has to press the „0‟
+                                                   key
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 438--462
+
+ []
+
+
+Overfull \hbox (3.62668pt too wide) in paragraph at lines 467--467
+[]\OT1/cmr/m/n/10 S.NO.| 
+ []
+
+
+Overfull \hbox (0.71397pt too wide) in paragraph at lines 467--467
+[]\OT1/cmr/m/n/10 YEAR| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--469
+[]\OT1/cmr/m/n/10 Security and
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 469--469
+\OT1/cmr/m/n/10 Us-abil-ity Im-prove-
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 469--469
+\OT1/cmr/m/n/10 based on In-ter-net
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 469--469
+[]\OT1/cmr/m/n/10 Researchgate (De-
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 471--471
+[]\OT1/cmr/m/n/10 Technology trends
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 471--471
+\OT1/cmr/m/n/10 vel-op-ment of IoT
+ []
+
+
+Underfull \hbox (badness 6204) in paragraph at lines 471--471
+\OT1/cmr/m/n/10 N. Kim and H.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--471
+[]\OT1/cmr/m/n/10 OSIA Stan-dards
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--471
+\OT1/cmr/m/n/10 Tech-nol-ogy Re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
+[]\OT1/cmr/m/n/10 A low cost
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
+\OT1/cmr/m/n/10 wire-less home
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 473--473
+\OT1/cmr/m/n/10 tron-ics ( Vol-ume:
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 475--475
+[]\OT1/cmr/m/n/10 On-line fin-ger-print
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 475--475
+\OT1/cmr/m/n/10 der-stand-ing the con-cept of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
+[]\OT1/cmr/m/n/10 A door-opening
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
+\OT1/cmr/m/n/10 sys-tem us-ing a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
+[]\OT1/cmr/m/n/10 IEEE Aerospace
+ []
+
+
+Underfull \hbox (badness 5652) in paragraph at lines 477--477
+\OT1/cmr/m/n/10 tems Mag-a-zine (
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 479--479
+\OT1/cmr/m/n/10 In-tel-li-gent Sys-tem
+ []
+
+
+Underfull \hbox (badness 3168) in paragraph at lines 479--479
+\OT1/cmr/m/n/10 Based on Fin-ger-
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 479--479
+[]\OT1/cmr/m/n/10 Wu Ping ; Wu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--479
+[]\OT1/cmr/m/n/10 IEEE In-tel-li-gent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--479
+\OT1/cmr/m/n/10 Com-pu-ta-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--479
+\OT1/cmr/m/n/10 Tech-nol-ogy and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--479
+\OT1/cmr/m/n/10 Au-toma-tion (ICI-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
+[]\OT1/cmr/m/n/10 A camera-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+[]\OT1/cmr/m/n/10 Security sys-tem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+\OT1/cmr/m/n/10 with mask-able
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+\OT1/cmr/m/n/10 mo-tion de-tec-tion
+ []
+
+
+Underfull \hbox (badness 4647) in paragraph at lines 483--483
+\OT1/cmr/m/n/10 and cam-era with
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 483--483
+[]\OT1/cmr/m/n/10 Grant, US6727938
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 485--485
+\OT1/cmr/m/n/10 men-ta-tion of Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+[]\OT1/cmr/m/n/10 Jayashri Ban-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+\OT1/cmr/m/n/10 gali and Arvind
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 485--485
+[]\OT1/cmr/m/n/10 This pa-pers helped us to
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 485--485
+\OT1/cmr/m/n/10 know in-ter-fac-ing of GSM
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14] [15] [16]
+Chapter 3.
+<b2.png, id=79, 854.44218pt x 507.39563pt>
+File: b2.png Graphic file (type png)
+ <use b2.png>
+Package pdftex.def Info: b2.png used on input line 574.
+(pdftex.def)             Requested size: 483.69684pt x 287.22876pt.
+ [17
+
+]
+
+! Package inputenc Error: Unicode char ‟ (U+201F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.580 ...rocontroller sends message to the user‟
+                                                  s mobile phone that the
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<f5.jpg, id=83, 543.53062pt x 271.0125pt>
+File: f5.jpg Graphic file (type jpg)
+ <use f5.jpg>
+Package pdftex.def Info: f5.jpg used on input line 594.
+(pdftex.def)             Requested size: 341.43306pt x 170.2508pt.
+ [18 <./b2.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 600--602
+
+ []
+
+[19 <./f5.jpg>] <f6.png, id=90, 850.67813pt x 517.935pt>
+File: f6.png Graphic file (type png)
+ <use f6.png>
+Package pdftex.def Info: f6.png used on input line 608.
+(pdftex.def)             Requested size: 455.24408pt x 277.17546pt.
+ [20 <./f6.png (PNG copy)>]
+Chapter 4.
+<cc.png, id=95, 689.57625pt x 527.72156pt>
+File: cc.png Graphic file (type png)
+ <use cc.png>
+Package pdftex.def Info: cc.png used on input line 642.
+(pdftex.def)             Requested size: 284.52756pt x 217.74419pt.
+
+
+! Package inputenc Error: Unicode char μ (U+3BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.650 ...ts.[citation needed] It was known as a μ
+                                                  RISC (Micro RISC) and was ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[21
+
+] [22 <./cc.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 668.
+
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 668.
+
+<2.png, id=102, 469.755pt x 264.99pt>
+File: 2.png Graphic file (type png)
+ <use 2.png>
+Package pdftex.def Info: 2.png used on input line 677.
+(pdftex.def)             Requested size: 426.79134pt x 240.7531pt.
+
+<3.jpeg, id=103, 474.27188pt x 350.81062pt>
+File: 3.jpeg Graphic file (type jpg)
+ <use 3.jpeg>
+Package pdftex.def Info: 3.jpeg used on input line 687.
+(pdftex.def)             Requested size: 426.79134pt x 315.69986pt.
+ [23 <./2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 694--695
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 696--697
+
+ []
+
+<4.jpg, id=108, 642.4pt x 361.35pt>
+File: 4.jpg Graphic file (type jpg)
+ <use 4.jpg>
+Package pdftex.def Info: 4.jpg used on input line 704.
+(pdftex.def)             Requested size: 369.88582pt x 208.06686pt.
+ [24 <./3.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 709--710
+
+ []
+
+[25 <./4.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 711--712
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 713--714
+
+ []
+
+<5.jpg, id=115, 673.51625pt x 323.2075pt>
+File: 5.jpg Graphic file (type jpg)
+ <use 5.jpg>
+Package pdftex.def Info: 5.jpg used on input line 733.
+(pdftex.def)             Requested size: 284.52756pt x 136.54022pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--739
+
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 745--747
+
+ []
+
+[27 <./5.jpg>] <6.png, id=123, 554.07pt x 550.055pt>
+File: 6.png Graphic file (type png)
+ <use 6.png>
+Package pdftex.def Info: 6.png used on input line 750.
+(pdftex.def)             Requested size: 227.62204pt x 225.96884pt.
+ [28 <./6.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 765--766
+
+ []
+
+<blynk2.png, id=127, 642.4pt x 479.7925pt>
+File: blynk2.png Graphic file (type png)
+ <use blynk2.png>
+Package pdftex.def Info: blynk2.png used on input line 772.
+(pdftex.def)             Requested size: 284.52756pt x 212.50766pt.
+ [29 <./blynk2.png>]
+Chapter 5.
+
+Overfull \hbox (10.71404pt too wide) in paragraph at lines 783--783
+[]\OT1/cmr/m/n/10 Quantity| 
+ []
+
+
+Overfull \hbox (2.36302pt too wide) in paragraph at lines 813--814
+[]\OT1/cmr/m/n/10 LED,Capacitor,Registor,Transistor,Crystal
+ []
+
+
+Overfull \hbox (5.32083pt too wide) in paragraph at lines 781--816
+ [][] 
+ []
+
+<8.jpg, id=132, 219.82124pt x 176.66pt>
+File: 8.jpg Graphic file (type jpg)
+ <use 8.jpg>
+Package pdftex.def Info: 8.jpg used on input line 823.
+(pdftex.def)             Requested size: 142.26378pt x 114.33434pt.
+
+<9.png, id=133, 472.76625pt x 447.92343pt>
+File: 9.png Graphic file (type png)
+ <use 9.png>
+Package pdftex.def Info: 9.png used on input line 831.
+(pdftex.def)             Requested size: 284.52756pt x 269.58313pt.
+
+Overfull \hbox (9.4973pt too wide) in paragraph at lines 828--835
+\OT1/cmr/m/n/12 sig-nals ex-cept 5-pins. The At-mega8 mi-cro-con-troller con-si
+sts of 28 pins where pins 9,10,14,15,16,17,18,19
+ []
+
+[30
+
+] [31 <./8.jpg> <./9.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 847--848
+
+ []
+
+<10.png, id=141, 472.76625pt x 672.26157pt>
+File: 10.png Graphic file (type png)
+ <use 10.png>
+Package pdftex.def Info: 10.png used on input line 852.
+(pdftex.def)             Requested size: 426.79134pt x 606.89674pt.
+
+<11.jpg, id=142, 677.53125pt x 318.43968pt>
+File: 11.jpg Graphic file (type jpg)
+ <use 11.jpg>
+Package pdftex.def Info: 11.jpg used on input line 862.
+(pdftex.def)             Requested size: 284.52756pt x 133.72917pt.
+ [32] [33 <./10.png>]
+
+! Package inputenc Error: Unicode char ° (U+B0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.896 ...ting Environment Temperature: -20 to 45°
+                                                   centigrades
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<12.jpg, id=150, 2776.3725pt x 2192.19pt>
+File: 12.jpg Graphic file (type jpg)
+ <use 12.jpg>
+Package pdftex.def Info: 12.jpg used on input line 911.
+(pdftex.def)             Requested size: 284.52756pt x 224.65076pt.
+ [34 <./11.jpg>] [35 <./12.jpg>]
+
+! Package inputenc Error: Unicode char × (U+D7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.938 ...complete operation is displayed over 16×
+                                                  2 LCD display.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<13.jpg, id=157, 1003.75pt x 601.24625pt>
+File: 13.jpg Graphic file (type jpg)
+ <use 13.jpg>
+Package pdftex.def Info: 13.jpg used on input line 945.
+(pdftex.def)             Requested size: 284.52756pt x 170.43036pt.
+
+<14.jpg, id=158, 803.0pt x 602.25pt>
+File: 14.jpg Graphic file (type jpg)
+ <use 14.jpg>
+Package pdftex.def Info: 14.jpg used on input line 952.
+(pdftex.def)             Requested size: 227.62204pt x 170.71487pt.
+
+<15.png, id=159, 803.0pt x 752.8125pt>
+File: 15.png Graphic file (type png)
+ <use 15.png>
+Package pdftex.def Info: 15.png used on input line 960.
+(pdftex.def)             Requested size: 284.52756pt x 266.75061pt.
+ [36]
+<16.jpg, id=163, 702.625pt x 702.625pt>
+File: 16.jpg Graphic file (type jpg)
+ <use 16.jpg>
+Package pdftex.def Info: 16.jpg used on input line 971.
+(pdftex.def)             Requested size: 142.26378pt x 142.25934pt.
+ [37 <./13.jpg> <./14.jpg>] [38 <./15.png> <./16.jpg>]
+
+! Package inputenc Error: Unicode char × (U+D7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.994 ...stal to produce a visible image. The 16×
+                                                  2 LCD display is a very ba...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char × (U+D7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.994 ...monly used in DIYs and circuits. The 16×
+                                                  2 translates o a display 1...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char × (U+D7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.994 ... LCD each character is displayed in a 5×
+                                                  7 pixel matrix.[23]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<17.png, id=171, 505.13719pt x 319.1925pt>
+File: 17.png Graphic file (type png)
+ <use 17.png>
+Package pdftex.def Info: 17.png used on input line 997.
+(pdftex.def)             Requested size: 227.62204pt x 143.83498pt.
+ [39 <./17.png>]
+[40] <18.png, id=179, 409.53pt x 386.94562pt>
+File: 18.png Graphic file (type png)
+ <use 18.png>
+Package pdftex.def Info: 18.png used on input line 1018.
+(pdftex.def)             Requested size: 284.52756pt x 268.85262pt.
+
+<19.png, id=180, 654.445pt x 562.1pt>
+File: 19.png Graphic file (type png)
+ <use 19.png>
+Package pdftex.def Info: 19.png used on input line 1033.
+(pdftex.def)             Requested size: 113.81102pt x 97.75143pt.
+ [41 <./18.png (PNG copy)> <./19.png>] <20.jpg, id=185, 602.25pt x 351.3125pt>
+File: 20.jpg Graphic file (type jpg)
+ <use 20.jpg>
+Package pdftex.def Info: 20.jpg used on input line 1044.
+(pdftex.def)             Requested size: 341.43306pt x 199.17807pt.
+ [42 <./20.jpg>]
+Chapter 6.
+<f4.png, id=189, 844.65562pt x 479.54156pt>
+File: f4.png Graphic file (type png)
+ <use f4.png>
+Package pdftex.def Info: f4.png used on input line 1054.
+(pdftex.def)             Requested size: 483.69684pt x 274.61472pt.
+ [43
+
+ <./f4.png (PNG copy)>] <p1.jpeg, id=193, 776.9025pt x 437.38406pt>
+File: p1.jpeg Graphic file (type jpg)
+ <use p1.jpeg>
+Package pdftex.def Info: p1.jpeg used on input line 1062.
+(pdftex.def)             Requested size: 483.69684pt x 272.31654pt.
+
+<p2.jpeg, id=194, 776.9025pt x 437.38406pt>
+File: p2.jpeg Graphic file (type jpg)
+ <use p2.jpeg>
+Package pdftex.def Info: p2.jpeg used on input line 1068.
+(pdftex.def)             Requested size: 483.69684pt x 272.31654pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44 <./p1.jpeg> <./p2.jpeg>] <f7.jpeg, id=199, 776.9025pt x 582.67688pt>
+File: f7.jpeg Graphic file (type jpg)
+ <use f7.jpeg>
+Package pdftex.def Info: f7.jpeg used on input line 1079.
+(pdftex.def)             Requested size: 483.69684pt x 362.77628pt.
+
+[45 <./f7.jpeg>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1087 				\begin{left}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \unhbox 
+l.1088 					\includegraphics
+                            [width=15.0cm]{p5.png}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+<p5.png, id=203, 589.4522pt x 450.9347pt>
+File: p5.png Graphic file (type png)
+ <use p5.png>
+Package pdftex.def Info: p5.png used on input line 1088.
+(pdftex.def)             Requested size: 426.79134pt x 326.50299pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1089 					\caption{Coding of desired hardware }
+                                                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.1089 					\caption{Coding of desired hardware }
+                                                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1093 				\begin{left}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \unhbox 
+l.1094 					\includegraphics
+                            [width=15.0cm]{p7.png}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+<p7.png, id=204, 575.14874pt x 169.38281pt>
+File: p7.png Graphic file (type png)
+ <use p7.png>
+Package pdftex.def Info: p7.png used on input line 1094.
+(pdftex.def)             Requested size: 426.79134pt x 125.69539pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1095 					\caption{Coading for desired message }
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.1095 					\caption{Coading for desired message }
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[46 <./p5.png (PNG copy)> <./p7.png (PNG copy)>]
+Chapter 7.
+<cont.jpg, id=208, 4143.48pt x 2330.7075pt>
+File: cont.jpg Graphic file (type jpg)
+ <use cont.jpg>
+Package pdftex.def Info: cont.jpg used on input line 1105.
+(pdftex.def)             Requested size: 398.33858pt x 224.05122pt.
+
+<cont1.jpg, id=209, 4142.47626pt x 1755.55875pt>
+File: cont1.jpg Graphic file (type jpg)
+ <use cont1.jpg>
+Package pdftex.def Info: cont1.jpg used on input line 1113.
+(pdftex.def)             Requested size: 426.79134pt x 180.8701pt.
+ [47
+
+ <./cont.jpg>] <count2.jpg, id=213, 2369.85374pt x 1350.04375pt>
+File: count2.jpg Graphic file (type jpg)
+ <use count2.jpg>
+Package pdftex.def Info: count2.jpg used on input line 1121.
+(pdftex.def)             Requested size: 199.16928pt x 113.44409pt.
+File: f7.jpeg Graphic file (type jpg)
+
+<use f7.jpeg>
+Package pdftex.def Info: f7.jpeg used on input line 1129.
+(pdftex.def)             Requested size: 284.52756pt x 213.3999pt.
+
+Underfull \vbox (badness 2103) has occurred while \output is active []
+
+ [48 <./cont1.jpg> <./count2.jpg>] [49]
+Chapter 8.
+<ff.png, id=220, 549.55313pt x 322.20375pt>
+File: ff.png Graphic file (type png)
+ <use ff.png>
+Package pdftex.def Info: ff.png used on input line 1141.
+(pdftex.def)             Requested size: 284.52756pt x 166.82419pt.
+ [50
+
+ <./ff.png (PNG copy)>] <ff2.png, id=225, 231.86626pt x 414.04688pt>
+File: ff2.png Graphic file (type png)
+ <use ff2.png>
+Package pdftex.def Info: ff2.png used on input line 1153.
+(pdftex.def)             Requested size: 199.16928pt x 355.66902pt.
+
+<ff1.png, id=226, 363.60844pt x 240.14719pt>
+File: ff1.png Graphic file (type png)
+ <use ff1.png>
+Package pdftex.def Info: ff1.png used on input line 1163.
+(pdftex.def)             Requested size: 284.52756pt x 187.9223pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1150--1167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1150--1167
+
+ []
+
+<p3.jpeg, id=227, 541.27219pt x 824.32968pt>
+File: p3.jpeg Graphic file (type jpg)
+ <use p3.jpeg>
+Package pdftex.def Info: p3.jpeg used on input line 1171.
+(pdftex.def)             Requested size: 142.26378pt x 216.66022pt.
+ [51 <./ff2.png (PNG copy)>] [52 <./ff1.png (PNG copy)> <./p3.jpeg>] [53]
+Chapter 9.
+[54
+
+]
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1215 			\begin{subfigure}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<f3.png, id=240, 432.86719pt x 402.75468pt>
+! Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.1216 				\includegraphics[width=]{f3.png}
+                                           
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.1216 				\includegraphics[width=]{f3.png}
+                                           
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.1216 				\includegraphics[width=]{f3.png}
+                                           
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.1216 				\includegraphics[width=]{f3.png}
+                                           
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: f3.png Graphic file (type png)
+<use f3.png>
+Package pdftex.def Info: f3.png used on input line 1216.
+(pdftex.def)             Requested size: 0.0pt x 0.0pt.
+
+
+! LaTeX Error: \begin{figure} on input line 1213 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1217 			\end{subfigure}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[55 <./f3.png (PNG copy)>]
+Chapter 10.
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.1224 			\begin{enumerate}[label={[\arabic*
+                                            ]}]
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1225 			\item F
+                 irst item
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1225 			\item F
+                 irst item
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1225 			\item F
+                 irst item
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1226 			\item S
+                 econd item
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1226 			\item S
+                 econd item
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1226 			\item S
+                 econd item
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1227 			\item \ldots
+                      
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1227 			\item \ldots
+                      
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1227 			\item \ldots
+                      
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1228 			\item L
+                 ast item
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1228 			\item L
+                 ast item
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1228 			\item L
+                 ast item
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1229 		\end{enumerate}
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1231--1233
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1234--1235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1236--1237
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1238--1239
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1240--1241
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1242--1243
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1244--1245
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1246--1247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1248--1249
+
+ []
+
+[56
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1250--1251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1254--1255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1256--1257
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1258--1259
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1260--1261
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1268--1269
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1270--1271
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1272--1273
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1274--1275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1276--1277
+
+ []
+
+[57]
+Underfull \hbox (badness 10000) in paragraph at lines 1278--1279
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1280--1281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1282--1292
+
+ []
+
+[58] (aaaaaa.aux) )
+(\end occurred inside a group at level 3)
+
+### simple group (level 3) entered at line 1288 ({)
+### simple group (level 2) entered at line 161 ({)
+### simple group (level 1) entered at line 102 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 3033 strings out of 493323
+ 39314 string characters out of 3139040
+ 118234 words of memory out of 3000000
+ 6467 multiletter control sequences out of 15000+200000
+ 14270 words of font info for 55 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,12n,43p,1380b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
+x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb>
+Output written on aaaaaa.pdf (63 pages, 10459226 bytes).
+PDF statistics:
+ 279 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+
